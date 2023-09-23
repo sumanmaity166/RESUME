@@ -1,0 +1,81 @@
+
+h1 {
+    background-color: aqua;
+    font-weight: bold;
+    text-transform: uppercase;
+
+
+}
+#O{
+    color: brown;
+}
+
+#a{
+    height: 300px;
+    width: 230px;
+    margin-top:50px;
+    background-color: orange;
+    border:3px solid ;
+ }
+
+
+ #b{
+    margin-top:5px;
+    text-align:left;
+    color: blue;
+    border: 3px solid;
+    background-color: yellow;
+    
+ }
+
+   #c{
+    margin-top: 10px;
+    height: 150px;
+    background-color: rgb(87, 238, 87);
+    border: 3px dotted;
+    border-radius: 20%;
+ 
+
+   }
+   #f{
+    height:300px;
+    width: 300px;
+    margin-left:500px;
+    background-image: url("SAVE_20211228_084139.jpg");
+    background-size: cover;
+   }
+   #d{
+    margin-top: 10px;
+    height: 200px;
+    font-weight: 800;
+    background-color: red;
+    border: 5px double;
+    border-radius: 40%;
+    text-align: center;
+   }
+   #e{
+    margin-top: 10px;
+    height: 200px;
+    width:200px;
+    font-weight: 800;
+    background-color: blue;
+    border: 5px solid;
+    border-radius: 50%;
+    text-align: center;
+   }
+   #G{
+    margin-top: 10px;
+    height: 200px;
+    width:200px;
+    font-weight: 800;
+    background-color:rgb(219, 52, 80);
+    border: 5px solid;
+    border-radius: 40%;
+    text-align: center;
+   }
+   #s{
+    height: auto;
+    width: auto;
+    background-image: url("i2.jpg");
+    background-size: auto;
+   }
